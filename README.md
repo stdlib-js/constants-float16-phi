@@ -58,7 +58,7 @@ The [golden ratio][phi] can be defined algebraically as
 ## Usage
 
 ```javascript
-import FLOAT16_PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-phi@esm/index.mjs';
+import FLOAT16_PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-phi@v0.1.1-esm/index.mjs';
 ```
 
 #### FLOAT16_PHI
@@ -92,7 +92,7 @@ var bool = ( FLOAT16_PHI === 1.6181640625 );
 <body>
 <script type="module">
 
-import FLOAT16_PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-phi@esm/index.mjs';
+import FLOAT16_PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-phi@v0.1.1-esm/index.mjs';
 
 console.log( FLOAT16_PHI );
 // => 1.6181640625
