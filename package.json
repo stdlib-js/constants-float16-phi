@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-float16-phi",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Half-precision (float16) approximation of the golden ratio (φ).",
   "license": "Apache-2.0",
   "author": {
